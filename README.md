@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cdeluchi - Clarice 
-- 👀 I’m interested in Frontend developer and cats 
-- 🌱 I’m currently learning Javascript and how to take care of my cat 
+- 👀 I’m interested in Frontend and cats 
+- 👩🏻‍💻 I'm a Full Stack Web Developer
+- 🐈‍⬛ I have a beautful black cat 
 - 💞️ I’m looking to collaborate on amazing project and be part of this community 
 - 📫 How to reach me, well you can send me an email. cdeluchi@gmail.com is easy ;) 
 
